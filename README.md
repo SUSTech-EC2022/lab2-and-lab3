@@ -22,12 +22,11 @@ Any programming language that you prefer, however, the sample code in this repos
 ## Noisy Quartic Function:
 This function is implemented in this repository and it is named as *noisyQuartic*
 
-**Question:** How to represent a solution for this problem?
 
 ## Implement EAs with different crossover and mutation operators
 **Exercise:** Compare their performance on the given function
 
-**Settings are given below:
+Settings are given below:
 * Population size 30.
 * Maximum function evaluation 500000.
 * 50 independent runs.
